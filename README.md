@@ -38,3 +38,6 @@ Technologies Used:
 -Spring Boot 3.2.0
 -H2 Database
 -Maven
+
+Author
+-Indunil Prasanna
